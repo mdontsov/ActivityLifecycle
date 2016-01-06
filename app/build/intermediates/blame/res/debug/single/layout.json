@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "E:\\Copy\\Android\\apps\\ActivityLifecycle\\app\\src\\main\\res\\layout\\activity_b.xml"
+    }
+]
